@@ -34,9 +34,9 @@
 
 ---
 
-<p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=Frigzer&theme=aura&hide_border=false" alt="frigzer_contribution" height=180px/></p>
+<p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=Frigzer&theme=tokyonight&hide_border=false" alt="frigzer_contribution" height=180px/></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=frigzer&show_icons=true&theme=aura&locale=en&layout=compact" alt="frigzer_top_lang" height=180px/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=frigzer&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="frigzer_top_lang" height=180px/></p>
 
 ![Snake animation](https://raw.githubusercontent.com/Frigzer/Frigzer/output/github-contribution-grid-snake.svg)
   
