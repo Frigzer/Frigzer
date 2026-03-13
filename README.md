@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Borek</h1>
-<h3 align="center">Computational Engineering student at AGH UST</h3>
+<h3 align="center">Computer Science in Engineering student at AGH UST</h3>
 
 -  📫 How to reach me **borekadam89@gmail.com**
 
