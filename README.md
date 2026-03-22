@@ -3,6 +3,8 @@
 
 -  📫 How to reach me **borekadam89@gmail.com**
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
@@ -39,4 +41,6 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=frigzer&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="frigzer_top_lang" height=180px/></p>
 
 ![Snake animation](https://raw.githubusercontent.com/Frigzer/Frigzer/output/github-contribution-grid-snake.svg)
+
+---
   
