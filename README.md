@@ -38,7 +38,7 @@
 
 <!-- <p><img align="right" src="https://github-profile-summary-cards.vercel.app/api/top-langs?username=frigzer&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="frigzer_top_lang" height=180px/></p> -->
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=frigzer&theme=tokyonight&utcOffset=+1" alt="frigzer_productive_time" height=180px/></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frigzer&theme=tokyonight" alt="frigzer_profile_details" height=180px/></p>
 
 <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frigzer&theme=tokyonight" alt="frigzer_repos_per_language" height=180px/></p>
 
