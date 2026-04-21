@@ -34,13 +34,19 @@
 
 ---
 
-<!-- <p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=Frigzer&theme=tokyonight&hide_border=false" alt="frigzer_contribution" height=180px/></p> -->
-
-<!-- <p><img align="right" src="https://github-profile-summary-cards.vercel.app/api/top-langs?username=frigzer&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="frigzer_top_lang" height=180px/></p> -->
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=frigzer&theme=tokyonight&utcOffset=+1" height="180px" style="margin-right: 20px;"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frigzer&theme=tokyonight" height="180px" style="margin-left: 20px;"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Frigzer&theme=tokyonight&show_icons=true&rank_icon=github&hide=issues" height="180px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frigzer&theme=tokyonight&layout=compact&hide=html" height="180px"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ![Snake animation](https://raw.githubusercontent.com/Frigzer/Frigzer/output/github-contribution-grid-snake.svg)
