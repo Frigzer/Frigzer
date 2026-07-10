@@ -38,12 +38,12 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Frigzer&theme=tokyonight&show_icons=true&rank_icon=github&hide=issues" height="180px"/>
+        <img src="https://github-stats-extended.vercel.app/api?username=Frigzer&theme=tokyonight&show_icons=true&rank_icon=github&hide=issues" height="180px"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frigzer&theme=tokyonight&layout=compact&hide=html" height="180px"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Frigzer&theme=tokyonight&layout=compact&hide=html" height="180px"/>
       </a>
     </td>
   </tr>
